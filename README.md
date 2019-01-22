@@ -1,0 +1,2 @@
+# Predicting-Purchase-Amount-On-Black-Friday
+This file consists of several parts. Firstly, we clean and modify our dataframe, to make it more suiatble for prediction models. Secondly, we plot a lot of graphs to get a feeling of what this dataset contains, find some correlation between the features and visualize important factors. We divide our data into training and testing and start building 5 models: Linear Regression, Decision Trees, Random Forest, Ridge Model, Lasso Model, Xgboost Model. Finally we compare the results and understand which model shows better results. 
